@@ -5,7 +5,9 @@ title: AI Live Caption — Privacy Policy
 # AI Live Caption — Privacy Policy
 
 **Effective date:** 2026-10-20
+
 **App:** AI Live Caption (Android, package `com.fair.aitranslator`)
+
 **Developer:** Yishiba · Contact: chuishuipeng+ailivecaption@gmail.com
 
 [中文版本见下方](#中文版)
@@ -77,7 +79,9 @@ Questions: chuishuipeng+ailivecaption@gmail.com
 # AI 实时字幕 — 隐私政策
 
 **生效日期：** 2026-10-20
+
 **应用：** AI 实时字幕（Android，包名 `com.fair.aitranslator`）
+
 **开发者：** Yishiba · 联系方式：chuishuipeng+ailivecaption@gmail.com
 
 AI 实时字幕把手机里播放的或身边的语音实时转成字幕和译文，设计上**尽可能在手机本地完成**。本政策说明应用会处理哪些信息、为什么。
