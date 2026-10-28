@@ -4,7 +4,7 @@ title: AI Live Caption — Privacy Policy
 
 # AI Live Caption — Privacy Policy
 
-**Effective date:** 2026-10-20
+**Effective date:** 2026-10-28
 
 **App:** AI Live Caption (Android, package `com.fair.aitranslator`)
 
@@ -19,6 +19,7 @@ AI Live Caption turns speech, whether it plays on your phone or happens around y
 - **What:** When you start captions, the app listens to one sound source you choose. That is either the microphone, or audio played by other apps (Android's audio playback capture, which asks for your consent every time).
 - **How it is used:** Audio is turned into text on your device, in real time, by on-device speech recognition models.
 - **What we don't do:** We do not record or save audio, and we never send audio off your device. The screen-capture permission is used only to capture *audio*. The app does not capture images of your screen.
+- **Files you pick:** When you transcribe a recording or video, the app reads only the file you chose, on your device. The file is not uploaded or copied. Subtitles you export are saved or shared only where you choose.
 
 ## 2. Caption text and caption history
 
@@ -78,7 +79,7 @@ Questions: chuishuipeng+ailivecaption@gmail.com
 
 # AI 实时字幕 — 隐私政策
 
-**生效日期：** 2026-10-20
+**生效日期：** 2026-10-28
 
 **应用：** AI 实时字幕（Android，包名 `com.fair.aitranslator`）
 
@@ -91,6 +92,7 @@ AI 实时字幕把手机里播放的或身边的语音实时转成字幕和译�
 - **处理什么：** 开始字幕后，应用只收听你选择的一种声音来源：麦克风，或其他应用播放的声音（Android 的音频播放捕获，每次开始前都会征得你的同意）。
 - **怎么使用：** 由手机上的离线语音识别模型实时转成文字。
 - **不做什么：** 不录音保存，也不把音频发送到手机以外。屏幕共享授权**只用于采集声音**，应用不会截取屏幕画面。
+- **你选择的文件：** 用「文件转字幕」时，应用只在手机上读取你选的那个文件，不会上传或复制它。导出的字幕只保存或分享到你指定的地方。
 
 ## 2. 字幕文字与字幕记录
 
