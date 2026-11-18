@@ -6,7 +6,7 @@ title: AI Live Caption — Privacy Policy
 
 **Effective date:** 2026-11-18
 
-**App:** AI Live Caption (Android, package `com.fair.aitranslator`; iPhone, bundle ID `com.fair.aitranslator`)
+**App:** AI Live Caption (Android, package `com.fair.aitranslator`; iPhone, bundle ID `com.yishiba.ailivecaption`)
 
 **Developer:** Yishiba · Contact: chuishuipeng+ailivecaption@gmail.com
 
@@ -94,7 +94,7 @@ Questions: chuishuipeng+ailivecaption@gmail.com
 
 **生效日期：** 2026-11-18
 
-**应用：** AI 实时字幕（Android，包名 `com.fair.aitranslator`；iPhone，Bundle ID `com.fair.aitranslator`）
+**应用：** AI 实时字幕（Android，包名 `com.fair.aitranslator`；iPhone，Bundle ID `com.yishiba.ailivecaption`）
 
 **开发者：** Yishiba · 联系方式：chuishuipeng+ailivecaption@gmail.com
 
