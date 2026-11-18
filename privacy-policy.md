@@ -4,15 +4,15 @@ title: AI Live Caption — Privacy Policy
 
 # AI Live Caption — Privacy Policy
 
-**Effective date:** 2026-10-28
+**Effective date:** 2026-11-18
 
-**App:** AI Live Caption (Android, package `com.fair.aitranslator`)
+**App:** AI Live Caption (Android, package `com.fair.aitranslator`; iPhone, bundle ID `com.fair.aitranslator`)
 
 **Developer:** Yishiba · Contact: chuishuipeng+ailivecaption@gmail.com
 
 [中文版本见下方](#中文版)
 
-AI Live Caption turns speech, whether it plays on your phone or happens around you, into live captions and translations. It is built to work **on your device**. This policy explains what the app handles and why.
+AI Live Caption turns speech, whether it plays on your phone or happens around you, into live captions and translations. It is built to work **on your device**. This policy explains what the app handles and why. Sections 1–5 describe the Android app; the iPhone app works differently in a few ways and is described in [section 6](#6-on-iphone).
 
 ## 1. Audio
 
@@ -57,19 +57,32 @@ This data contains **no audio and no caption text**. See [Firebase's privacy inf
 | Notifications, foreground service | Keep captions running while you use other apps, and let you stop them from the notification |
 | Internet, network state | Download models; avoid large downloads on mobile data without asking |
 
-## 6. What we don't collect
+<a id="6-on-iphone"></a>
+## 6. On iPhone
 
-No account, no advertising, no analytics profiles, no contacts, no location. We don't sell or share personal data.
+The iPhone app uses Apple's own on-device frameworks and **collects no data at all**:
 
-## 7. Children
+- **Audio:** the app listens only through the microphone, and only while captions are running. Speech is turned into text on your iPhone by Apple's on-device speech recognition. Audio is never recorded, saved or sent anywhere.
+- **Translation and read-aloud:** done on your iPhone by Apple's Translation framework and the system voices. Caption text is not sent to us or to any server.
+- **Downloads:** the speech assets, translation languages and voices are downloaded and managed by iOS itself from Apple, when you choose a language (the app explains each download first). The app makes no internet connections of its own.
+- **Caption history:** up to 500 recent captions, stored only on your iPhone. You can clear it in the app; deleting the app deletes it.
+- **Purchases:** handled entirely by Apple. We never see your payment details or Apple Account. To keep the free minutes from resetting, how much of them you have used is stored in your iPhone's keychain, on the device only.
+- **No crash reporting, analytics or advertising SDKs** are included. If you choose to share crash data with developers in iOS settings, Apple provides it to us under Apple's privacy policy, without audio or captions.
+- **Permission:** Microphone, to caption the speech around you.
+
+## 7. What we don't collect
+
+No account, no advertising, no analytics profiles, no contacts, no location, no payment details. We don't sell or share personal data.
+
+## 8. Children
 
 The app is not directed at children under 13 and doesn't knowingly collect their personal information.
 
-## 8. Changes
+## 9. Changes
 
 If this policy changes, we'll update this page and its effective date.
 
-## 9. Contact
+## 10. Contact
 
 Questions: chuishuipeng+ailivecaption@gmail.com
 
@@ -79,13 +92,13 @@ Questions: chuishuipeng+ailivecaption@gmail.com
 
 # AI 实时字幕 — 隐私政策
 
-**生效日期：** 2026-10-28
+**生效日期：** 2026-11-18
 
-**应用：** AI 实时字幕（Android，包名 `com.fair.aitranslator`）
+**应用：** AI 实时字幕（Android，包名 `com.fair.aitranslator`；iPhone，Bundle ID `com.fair.aitranslator`）
 
 **开发者：** Yishiba · 联系方式：chuishuipeng+ailivecaption@gmail.com
 
-AI 实时字幕把手机里播放的或身边的语音实时转成字幕和译文，设计上**尽可能在手机本地完成**。本政策说明应用会处理哪些信息、为什么。
+AI 实时字幕把手机里播放的或身边的语音实时转成字幕和译文，设计上**尽可能在手机本地完成**。本政策说明应用会处理哪些信息、为什么。第 1–5 节说明的是 Android 版；iPhone 版有几处不同，见[第 6 节](#6-iphone-版)。
 
 ## 1. 音频
 
@@ -130,18 +143,31 @@ AI 实时字幕把手机里播放的或身边的语音实时转成字幕和译�
 | 通知、前台服务 | 使用其他应用时让字幕持续运行，并可从通知栏停止 |
 | 网络、网络状态 | 下载模型；在移动网络下避免未经询问的大流量下载 |
 
-## 6. 我们不收集的信息
+<a id="6-iphone-版"></a>
+## 6. iPhone 版
 
-没有账号体系、没有广告、不做用户画像分析，不读取通讯录和位置。我们不出售或共享个人数据。
+iPhone 版使用苹果自带的本机框架，**不收集任何数据**：
 
-## 7. 儿童
+- **音频：** 只通过麦克风收听，且只在字幕运行期间。由苹果的离线语音识别在 iPhone 上转成文字，不录音保存，也不发送到任何地方。
+- **翻译与朗读：** 由苹果的翻译框架和系统语音在 iPhone 上完成，字幕文字不会发送给我们或任何服务器。
+- **下载：** 语音识别资源、翻译语言包和朗读语音，由 iOS 系统在你选择语言时从苹果下载和管理（每次下载前应用都会先说明）。应用本身不进行任何联网。
+- **字幕记录：** 最近的字幕最多 500 条，只保存在你的 iPhone 上，可在应用内清空，删除应用会一并删除。
+- **购买：** 完全由苹果处理，我们看不到你的支付信息或 Apple 账户。为避免免费时长被重置，已用的免费时长记在 iPhone 的钥匙串中，只存在本机。
+- **不含任何崩溃收集、统计或广告 SDK。** 如果你在 iOS 设置中选择与开发者共享分析数据，苹果会按其隐私政策把崩溃信息提供给我们，其中不含音频和字幕。
+- **权限：** 麦克风，用于为身边的语音生成字幕。
+
+## 7. 我们不收集的信息
+
+没有账号体系、没有广告、不做用户画像分析，不读取通讯录和位置，不接触支付信息。我们不出售或共享个人数据。
+
+## 8. 儿童
 
 本应用不面向 13 岁以下儿童，也不会有意收集其个人信息。
 
-## 8. 政策变更
+## 9. 政策变更
 
 本政策如有变更，会更新本页面及生效日期。
 
-## 9. 联系我们
+## 10. 联系我们
 
 如有疑问：chuishuipeng+ailivecaption@gmail.com
